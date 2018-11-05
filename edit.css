@@ -1,0 +1,30 @@
+﻿#top{
+font-size: 40px;
+background-color: #FFFFFF;
+color: #33bde6;
+}    
+
+/*中央*/        
+   
+
+/*左側*/    
+table,th,td{ 
+border:none;
+}  
+
+.leftbox{
+padding: 0.5em 1em;
+margin: 2em 0;
+color: #33bde6;
+background: #FFFFFF;
+border-left: solid 10px #ffc06e;
+}     
+
+div.photo1{ 
+width:    400px;
+margin: 0px auto;
+}       
+div.photo1 p{   
+width: 400px;
+float: right; 
+}
